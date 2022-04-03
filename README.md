@@ -1,8 +1,8 @@
 # movieapp
 Follow along on udemy.
 
-Concepts learned: 
-Using API 
-Async 
-For Each
+Concepts learned: <br>
+Using API <br>
+Async <br>
+For Each <br>
 addEventListener
